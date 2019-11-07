@@ -1,0 +1,707 @@
+ 
+[I 191103 18:47:27 m2RedoServer:32] Started 10286
+[I 191103 18:47:31 childParent:25] PARENT: 10286 is logging
+[I 191103 18:47:31 childParent:25] PARENT: 10286 is logging
+[I 191103 18:47:31 childParent:25] PARENT: 10286 is logging
+[I 191103 18:47:31 childParent:25] PARENT: 10286 is logging
+[I 191103 18:47:31 childParent:25] PARENT: 10286 is logging
+[I 191103 18:47:31 childParent:25] PARENT: 10286 is logging
+[I 191103 18:47:42 childParent:25] PARENT: 10286 is logging
+[I 191103 18:47:42 childParent:25] PARENT: 10286 is logging
+[I 191103 18:47:42 childParent:25] PARENT: 10286 is logging
+[I 191103 18:47:42 childParent:25] PARENT: 10286 is logging
+[I 191103 18:47:42 childParent:25] PARENT: 10286 is logging
+[I 191103 18:47:42 childParent:25] PARENT: 10286 is logging
+[I 191103 18:47:42 childParent:25] PARENT: 10286 is logging
+[I 191103 18:48:14 childParent:25] PARENT: 10286 is logging
+[I 191103 18:48:14 childParent:25] PARENT: 10286 is logging
+[I 191103 18:48:14 childParent:25] PARENT: 10286 is logging
+[I 191103 18:48:44 m2RedoServer:32] Started 10390
+[I 191103 18:48:52 childParent:25] PARENT: 10390 is logging
+[I 191103 18:48:52 childParent:25] PARENT: 10390 is logging
+[I 191103 18:48:53 childParent:25] PARENT: 10390 is logging
+[I 191103 18:54:25 m2RedoServer:32] Started 10819
+[I 191103 18:54:30 m2RedoServer:32] Started 10820
+[I 191103 18:54:38 childParent:25] PARENT: 10819 is logging
+[I 191103 18:54:38 childParent:25] PARENT: 10820 is logging
+[I 191103 18:54:38 childParent:25] PARENT: 10820 is logging
+[I 191103 18:54:59 childParent:25] PARENT: 10819 is logging
+[I 191103 18:54:59 childParent:25] PARENT: 10820 is logging
+[I 191103 18:54:59 childParent:25] PARENT: 10820 is logging
+[I 191103 18:55:42 m2RedoServer:32] Started 10920
+[I 191103 18:55:47 childParent:25] PARENT: 10819 is logging
+[I 191103 18:55:47 childParent:25] PARENT: 10819 is logging
+[I 191103 18:55:47 childParent:25] PARENT: 10819 is logging
+[I 191103 18:55:58 m2RedoServer:32] Started 10940
+[I 191103 18:56:04 childParent:25] PARENT: 10940 is logging
+[I 191103 18:56:04 childParent:25] PARENT: 10819 is logging
+[I 191103 18:56:04 childParent:25] PARENT: 10819 is logging
+[I 191103 18:56:04 childParent:25] PARENT: 10819 is logging
+[I 191103 18:56:04 childParent:25] PARENT: 10940 is logging
+[I 191103 18:56:04 childParent:25] PARENT: 10819 is logging
+[I 191103 18:56:04 childParent:25] PARENT: 10819 is logging
+[I 191103 18:56:04 childParent:25] PARENT: 10940 is logging
+[I 191103 18:56:04 childParent:25] PARENT: 10940 is logging
+[I 191103 18:56:12 childParent:25] PARENT: 10940 is logging
+[I 191103 18:56:12 childParent:25] PARENT: 10819 is logging
+[I 191103 18:56:12 childParent:25] PARENT: 10819 is logging
+[I 191103 18:56:12 childParent:25] PARENT: 10940 is logging
+[I 191103 18:56:12 childParent:25] PARENT: 10819 is logging
+[I 191103 18:56:12 childParent:25] PARENT: 10940 is logging
+[I 191103 18:56:12 childParent:25] PARENT: 10940 is logging
+[I 191103 18:56:12 childParent:25] PARENT: 10940 is logging
+[I 191103 18:56:12 childParent:25] PARENT: 10819 is logging
+[I 191103 18:56:12 childParent:25] PARENT: 10940 is logging
+[I 191103 18:56:12 childParent:25] PARENT: 10940 is logging
+[I 191103 18:56:38 m2RedoServer:32] Started 11015
+[I 191103 18:56:41 childParent:25] PARENT: 10819 is logging
+[I 191103 18:56:41 childParent:25] PARENT: 11015 is logging
+[I 191103 18:56:41 childParent:25] PARENT: 10819 is logging
+[I 191103 18:56:41 childParent:25] PARENT: 11015 is logging
+[I 191103 18:56:41 childParent:25] PARENT: 11015 is logging
+[I 191103 18:56:41 childParent:25] PARENT: 10819 is logging
+[I 191103 18:56:41 childParent:25] PARENT: 11015 is logging
+[I 191103 18:56:41 childParent:25] PARENT: 11015 is logging
+[I 191104 15:36:09 m2RedoServer:32] Started 1905
+[I 191104 15:36:24 childParent:25] PARENT: 1905 is logging
+[I 191104 15:36:25 childParent:25] PARENT: 1905 is logging
+[I 191104 15:36:25 childParent:25] PARENT: 1905 is logging
+[I 191104 15:36:25 childParent:25] PARENT: 1905 is logging
+[I 191104 15:36:25 childParent:25] PARENT: 1905 is logging
+[I 191104 15:36:25 childParent:25] PARENT: 1905 is logging
+[I 191104 15:36:25 childParent:25] PARENT: 1905 is logging
+[I 191104 15:36:25 childParent:25] PARENT: 1905 is logging
+[I 191104 15:36:25 childParent:25] PARENT: 1905 is logging
+[I 191104 15:37:10 m2RedoServer:32] Started 1999
+[I 191104 15:37:16 childParent:25] PARENT: 1999 is logging
+[I 191104 15:37:16 childParent:25] PARENT: 1999 is logging
+[I 191104 15:37:16 childParent:25] PARENT: 1999 is logging
+[I 191104 15:37:16 childParent:25] PARENT: 1999 is logging
+[I 191104 15:37:16 childParent:25] PARENT: 1999 is logging
+[I 191104 15:37:16 childParent:25] PARENT: 1999 is logging
+[I 191104 15:37:16 childParent:25] PARENT: 1999 is logging
+[I 191104 15:37:16 childParent:25] PARENT: 1999 is logging
+[I 191104 15:37:16 childParent:25] PARENT: 1999 is logging
+[I 191104 15:37:29 childParent:25] PARENT: 1999 is logging
+[I 191104 15:37:29 childParent:25] PARENT: 1999 is logging
+[I 191104 15:37:29 childParent:25] PARENT: 1999 is logging
+[I 191104 15:40:17 childParent:25] PARENT: 1999 is logging
+[I 191104 15:40:17 childParent:25] PARENT: 1999 is logging
+[I 191104 15:40:17 childParent:25] PARENT: 1999 is logging
+[I 191104 15:40:30 m2RedoServer:32] Started 2419
+[I 191104 15:40:38 childParent:25] PARENT: 2419 is logging
+[I 191104 15:40:38 childParent:25] PARENT: 2419 is logging
+[I 191104 15:40:38 childParent:25] PARENT: 2419 is logging
+[I 191104 15:42:05 m2RedoServer:32] Started 2550
+[I 191104 15:42:11 childParent:25] PARENT: 2550 is logging
+[I 191104 15:42:11 childParent:25] PARENT: 2550 is logging
+[I 191104 15:42:11 childParent:25] PARENT: 2550 is logging
+[I 191104 15:48:31 m2RedoServer:32] Started 3049
+[I 191104 15:48:37 childParent:25] PARENT: 2550 is logging
+[I 191104 15:48:37 childParent:25] PARENT: 2550 is logging
+[I 191104 15:50:38 m2RedoServer:32] Started 3217
+[I 191104 15:53:54 m2RedoServer:32] Started 3433
+[I 191104 15:55:56 m2RedoServer:32] Started 3592
+[I 191104 15:56:01 childParent:25] PARENT: 3592 is logging
+[I 191104 15:56:01 childParent:25] PARENT: 3592 is logging
+[I 191104 15:56:01 childParent:25] PARENT: 3592 is logging
+[I 191104 15:56:51 m2RedoServer:32] Started 3659
+[I 191104 15:56:54 childParent:25] PARENT: 3659 is logging
+[I 191104 15:56:54 childParent:25] PARENT: 3659 is logging
+[I 191104 15:56:54 childParent:25] PARENT: 3659 is logging
+[I 191104 15:56:54 childParent:25] PARENT: 3659 is logging
+[I 191104 15:56:54 childParent:25] PARENT: 3659 is logging
+[I 191104 15:56:54 childParent:25] PARENT: 3659 is logging
+[I 191104 15:56:54 childParent:25] PARENT: 3659 is logging
+[I 191104 15:56:54 childParent:25] PARENT: 3659 is logging
+[I 191104 15:56:54 childParent:25] PARENT: 3659 is logging
+[I 191104 15:56:54 childParent:25] PARENT: 3659 is logging
+[I 191104 15:56:54 childParent:25] PARENT: 3659 is logging
+[I 191104 15:56:54 childParent:25] PARENT: 3659 is logging
+[I 191104 16:02:58 m2RedoServer:32] Started 4097
+[I 191104 21:10:52 m2RedoServer:32] Started 1498
+[I 191104 21:11:15 childParent:25] PARENT: 1498 is logging
+[I 191104 21:11:15 childParent:25] PARENT: 1498 is logging
+[I 191104 21:11:15 childParent:25] PARENT: 1498 is logging
+[I 191104 21:11:15 childParent:25] PARENT: 1498 is logging
+[I 191104 21:11:15 childParent:25] PARENT: 1498 is logging
+[I 191104 21:16:31 m2RedoServer:78] Started 1898
+[I 191104 21:16:36 childParent:25] PARENT: 1898 is logging
+[I 191104 21:16:36 childParent:25] PARENT: 1898 is logging
+[I 191104 21:16:36 childParent:25] PARENT: 1898 is logging
+[I 191104 21:16:36 childParent:25] PARENT: 1898 is logging
+[I 191104 21:16:36 childParent:25] PARENT: 1898 is logging
+[I 191104 21:23:48 m2RedoServer:75] Started 2411
+[I 191104 21:25:01 m2RedoServer:75] Started 2510
+[I 191104 21:26:44 m2RedoServer:74] Started 2649
+[I 191104 21:26:47 m2RedoServer:98] pid: <function daemonize at 0x7f27936ba1e0>
+[I 191105 13:47:33 m2RedoServer:74] Started 2831
+[I 191105 14:44:36 m2RedoServer:74] Started 7244
+[I 191105 14:45:38 m2RedoServer:74] Started 7333
+[I 191105 14:45:43 m2RedoServer:102] pid: 7336
+[I 191105 14:45:43 childParent:25] PARENT: 7333 is logging
+[I 191105 14:45:43 m2RedoServer:102] pid: 7338
+[I 191105 14:45:43 childParent:25] PARENT: 7333 is logging
+[I 191105 14:45:43 m2RedoServer:102] pid: 7341
+[I 191105 14:45:43 childParent:25] PARENT: 7333 is logging
+[I 191105 14:45:43 m2RedoServer:102] pid: 7344
+[I 191105 14:45:43 childParent:25] PARENT: 7333 is logging
+[I 191105 14:45:43 m2RedoServer:102] pid: 7346
+[I 191105 14:45:43 childParent:25] PARENT: 7333 is logging
+[I 191105 14:45:43 m2RedoServer:102] pid: 7348
+[I 191105 14:45:43 childParent:25] PARENT: 7333 is logging
+[I 191105 14:45:43 m2RedoServer:102] pid: 7351
+[I 191105 14:45:43 childParent:25] PARENT: 7333 is logging
+[I 191105 14:45:43 m2RedoServer:102] pid: 7354
+[I 191105 14:45:43 childParent:25] PARENT: 7333 is logging
+[I 191105 14:46:29 m2RedoServer:102] pid: 7409
+[I 191105 14:46:29 childParent:25] PARENT: 7333 is logging
+[I 191105 14:46:29 m2RedoServer:102] pid: 7412
+[I 191105 14:46:29 childParent:25] PARENT: 7333 is logging
+[I 191105 14:50:08 m2RedoServer:74] Started 7648
+[I 191105 14:50:14 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:14 m2RedoServer:103] pid: 7651
+[I 191105 14:50:14 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:14 m2RedoServer:103] pid: 0
+[I 191105 14:50:14 childParent:22] CHILD: 7651 is logging
+[I 191105 14:50:14 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:14 m2RedoServer:103] pid: 7653
+[I 191105 14:50:14 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:14 m2RedoServer:103] pid: 0
+[I 191105 14:50:14 childParent:22] CHILD: 7653 is logging
+[I 191105 14:50:14 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:14 m2RedoServer:103] pid: 7655
+[I 191105 14:50:14 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:14 m2RedoServer:103] pid: 0
+[I 191105 14:50:14 childParent:22] CHILD: 7655 is logging
+[I 191105 14:50:21 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:21 m2RedoServer:103] pid: 7671
+[I 191105 14:50:21 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:21 m2RedoServer:103] pid: 0
+[I 191105 14:50:21 childParent:22] CHILD: 7671 is logging
+[I 191105 14:50:21 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:21 m2RedoServer:103] pid: 7673
+[I 191105 14:50:21 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:21 m2RedoServer:103] pid: 0
+[I 191105 14:50:21 childParent:22] CHILD: 7673 is logging
+[I 191105 14:50:21 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:21 m2RedoServer:103] pid: 7675
+[I 191105 14:50:21 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:21 m2RedoServer:103] pid: 0
+[I 191105 14:50:21 childParent:22] CHILD: 7675 is logging
+[I 191105 14:50:21 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:21 m2RedoServer:103] pid: 7677
+[I 191105 14:50:21 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:21 m2RedoServer:103] pid: 0
+[I 191105 14:50:21 childParent:22] CHILD: 7677 is logging
+[I 191105 14:50:21 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:21 m2RedoServer:103] pid: 7680
+[I 191105 14:50:21 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:21 m2RedoServer:103] pid: 0
+[I 191105 14:50:21 childParent:22] CHILD: 7680 is logging
+[I 191105 14:50:21 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:21 m2RedoServer:103] pid: 7682
+[I 191105 14:50:21 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:21 m2RedoServer:103] pid: 0
+[I 191105 14:50:21 childParent:22] CHILD: 7682 is logging
+[I 191105 14:50:21 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:21 m2RedoServer:103] pid: 7685
+[I 191105 14:50:21 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:21 m2RedoServer:103] pid: 0
+[I 191105 14:50:21 childParent:22] CHILD: 7685 is logging
+[I 191105 14:50:21 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:21 m2RedoServer:103] pid: 7689
+[I 191105 14:50:21 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:21 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:21 m2RedoServer:103] pid: 7690
+[I 191105 14:50:21 childParent:25] PARENT: 7648 is logging
+[I 191105 14:50:21 m2RedoServer:103] pid: 0
+[I 191105 14:50:21 childParent:22] CHILD: 7690 is logging
+[I 191105 14:50:21 m2RedoServer:103] pid: 0
+[I 191105 14:50:21 childParent:22] CHILD: 7689 is logging
+[I 191105 14:51:30 m2RedoServer:74] Started 7774
+[I 191105 14:51:35 childParent:25] PARENT: 7774 is logging
+[I 191105 14:51:35 childParent:25] PARENT: 7774 is logging
+[I 191105 14:51:35 childParent:22] CHILD: 7790 is logging
+[I 191105 14:51:35 childParent:25] PARENT: 7774 is logging
+[I 191105 14:51:35 childParent:25] PARENT: 7774 is logging
+[I 191105 14:51:35 childParent:22] CHILD: 7793 is logging
+[I 191105 14:51:35 childParent:25] PARENT: 7774 is logging
+[I 191105 14:51:35 childParent:25] PARENT: 7774 is logging
+[I 191105 14:51:35 childParent:22] CHILD: 7795 is logging
+[I 191105 14:51:35 childParent:25] PARENT: 7774 is logging
+[I 191105 14:51:35 childParent:25] PARENT: 7774 is logging
+[I 191105 14:51:35 childParent:22] CHILD: 7798 is logging
+[I 191105 14:51:35 childParent:25] PARENT: 7774 is logging
+[I 191105 14:51:35 childParent:25] PARENT: 7774 is logging
+[I 191105 14:51:35 childParent:22] CHILD: 7799 is logging
+[I 191105 14:51:35 childParent:25] PARENT: 7774 is logging
+[I 191105 14:51:35 childParent:25] PARENT: 7774 is logging
+[I 191105 14:51:35 childParent:22] CHILD: 7803 is logging
+[I 191105 14:51:35 childParent:25] PARENT: 7774 is logging
+[I 191105 14:51:35 childParent:25] PARENT: 7774 is logging
+[I 191105 14:51:35 childParent:22] CHILD: 7806 is logging
+[I 191105 14:51:35 childParent:25] PARENT: 7774 is logging
+[I 191105 14:51:35 childParent:25] PARENT: 7774 is logging
+[I 191105 14:51:35 childParent:22] CHILD: 7808 is logging
+[I 191106 18:31:52 m2RedoServer:107] Started 20701
+[I 191106 18:34:38 childParent:25] PARENT: 20701 is logging
+[I 191106 18:34:38 childParent:25] PARENT: 20701 is logging
+[I 191106 18:34:38 childParent:22] CHILD: 20904 is logging
+[I 191106 18:34:38 childParent:25] PARENT: 20701 is logging
+[I 191106 18:34:38 childParent:25] PARENT: 20701 is logging
+[I 191106 18:34:38 childParent:22] CHILD: 20906 is logging
+[I 191106 18:34:38 childParent:25] PARENT: 20701 is logging
+[I 191106 18:34:38 childParent:25] PARENT: 20701 is logging
+[I 191106 18:34:38 childParent:22] CHILD: 20908 is logging
+[I 191106 18:34:38 childParent:25] PARENT: 20701 is logging
+[I 191106 18:34:38 childParent:25] PARENT: 20701 is logging
+[I 191106 18:34:38 childParent:22] CHILD: 20910 is logging
+[I 191106 18:34:38 childParent:25] PARENT: 20701 is logging
+[I 191106 18:34:38 childParent:25] PARENT: 20701 is logging
+[I 191106 18:34:38 childParent:25] PARENT: 20701 is logging
+[I 191106 18:34:38 childParent:22] CHILD: 20913 is logging
+[I 191106 18:34:38 childParent:25] PARENT: 20701 is logging
+[I 191106 18:34:38 childParent:22] CHILD: 20914 is logging
+[I 191106 18:34:38 childParent:25] PARENT: 20701 is logging
+[I 191106 18:34:38 childParent:25] PARENT: 20701 is logging
+[I 191106 18:34:38 childParent:22] CHILD: 20918 is logging
+[I 191106 18:34:38 childParent:25] PARENT: 20701 is logging
+[I 191106 18:34:38 childParent:25] PARENT: 20701 is logging
+[I 191106 18:34:38 childParent:22] CHILD: 20920 is logging
+[I 191106 18:34:38 childParent:25] PARENT: 20701 is logging
+[I 191106 18:34:38 childParent:25] PARENT: 20701 is logging
+[I 191106 18:34:38 childParent:22] CHILD: 20923 is logging
+[I 191106 18:35:16 m2RedoServer:107] Started 20973
+[I 191106 18:35:21 childParent:25] PARENT: 20973 is logging
+[I 191106 18:35:21 childParent:25] PARENT: 20973 is logging
+[I 191106 18:35:21 childParent:22] CHILD: 20991 is logging
+[I 191106 18:35:21 childParent:25] PARENT: 20973 is logging
+[I 191106 18:35:21 childParent:25] PARENT: 20973 is logging
+[I 191106 18:35:21 childParent:22] CHILD: 20993 is logging
+[I 191106 18:35:21 childParent:25] PARENT: 20973 is logging
+[I 191106 18:35:21 childParent:25] PARENT: 20973 is logging
+[I 191106 18:35:21 childParent:22] CHILD: 20995 is logging
+[I 191106 18:35:30 childParent:25] PARENT: 20973 is logging
+[I 191106 18:35:30 childParent:25] PARENT: 20973 is logging
+[I 191106 18:35:30 childParent:22] CHILD: 21012 is logging
+[I 191106 18:35:30 childParent:25] PARENT: 20973 is logging
+[I 191106 18:35:30 childParent:25] PARENT: 20973 is logging
+[I 191106 18:35:30 childParent:22] CHILD: 21015 is logging
+[I 191106 18:35:30 childParent:25] PARENT: 20973 is logging
+[I 191106 18:35:30 childParent:25] PARENT: 20973 is logging
+[I 191106 18:35:30 childParent:22] CHILD: 21017 is logging
+[I 191106 18:35:35 childParent:25] PARENT: 20973 is logging
+[I 191106 18:35:35 childParent:25] PARENT: 20973 is logging
+[I 191106 18:35:35 childParent:22] CHILD: 21020 is logging
+[I 191106 18:35:35 childParent:25] PARENT: 20973 is logging
+[I 191106 18:35:35 childParent:25] PARENT: 20973 is logging
+[I 191106 18:35:35 childParent:25] PARENT: 20973 is logging
+[I 191106 18:35:35 childParent:25] PARENT: 20973 is logging
+[I 191106 18:35:35 childParent:22] CHILD: 21024 is logging
+[I 191106 18:35:35 childParent:22] CHILD: 21022 is logging
+[I 191106 18:36:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:46 childParent:22] CHILD: 21106 is logging
+[I 191106 18:36:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:46 childParent:22] CHILD: 21109 is logging
+[I 191106 18:36:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:46 childParent:22] CHILD: 21111 is logging
+[I 191106 18:36:52 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:52 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:52 childParent:22] CHILD: 21114 is logging
+[I 191106 18:36:52 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:52 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:52 childParent:22] CHILD: 21117 is logging
+[I 191106 18:36:52 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:52 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:52 childParent:22] CHILD: 21120 is logging
+[I 191106 18:36:52 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:52 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:52 childParent:22] CHILD: 21123 is logging
+[I 191106 18:36:57 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:57 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:57 childParent:22] CHILD: 21126 is logging
+[I 191106 18:36:57 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:57 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:57 childParent:22] CHILD: 21128 is logging
+[I 191106 18:36:57 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:57 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:57 childParent:22] CHILD: 21130 is logging
+[I 191106 18:36:57 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:57 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:57 childParent:22] CHILD: 21133 is logging
+[I 191106 18:36:57 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:57 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:58 childParent:22] CHILD: 21136 is logging
+[I 191106 18:36:58 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:58 childParent:25] PARENT: 20973 is logging
+[I 191106 18:36:58 childParent:22] CHILD: 21137 is logging
+[I 191106 18:37:07 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:07 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:07 childParent:22] CHILD: 21153 is logging
+[I 191106 18:37:07 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:07 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:07 childParent:22] CHILD: 21155 is logging
+[I 191106 18:37:07 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:07 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:07 childParent:22] CHILD: 21158 is logging
+[I 191106 18:37:07 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:07 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:07 childParent:22] CHILD: 21160 is logging
+[I 191106 18:37:07 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:07 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:07 childParent:22] CHILD: 21163 is logging
+[I 191106 18:37:07 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:07 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:07 childParent:22] CHILD: 21166 is logging
+[I 191106 18:37:10 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:10 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:10 childParent:22] CHILD: 21169 is logging
+[I 191106 18:37:10 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:10 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:10 childParent:22] CHILD: 21172 is logging
+[I 191106 18:37:10 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:10 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:10 childParent:22] CHILD: 21174 is logging
+[I 191106 18:37:11 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:11 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:11 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:11 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:11 childParent:22] CHILD: 21177 is logging
+[I 191106 18:37:11 childParent:22] CHILD: 21179 is logging
+[I 191106 18:37:11 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:11 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:11 childParent:22] CHILD: 21182 is logging
+[I 191106 18:37:29 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:29 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:29 childParent:22] CHILD: 21211 is logging
+[I 191106 18:37:33 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:33 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:33 childParent:22] CHILD: 21214 is logging
+[I 191106 18:37:33 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:33 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:33 childParent:22] CHILD: 21216 is logging
+[I 191106 18:37:33 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:33 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:33 childParent:22] CHILD: 21221 is logging
+[I 191106 18:37:33 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:33 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:33 childParent:22] CHILD: 21224 is logging
+[I 191106 18:37:33 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:33 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:33 childParent:22] CHILD: 21228 is logging
+[I 191106 18:37:33 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:33 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:33 childParent:22] CHILD: 21231 is logging
+[I 191106 18:37:33 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:33 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:33 childParent:22] CHILD: 21232 is logging
+[I 191106 18:37:33 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:33 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:33 childParent:22] CHILD: 21235 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:22] CHILD: 21251 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:22] CHILD: 21253 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:22] CHILD: 21255 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:22] CHILD: 21257 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:22] CHILD: 21260 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:22] CHILD: 21263 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:22] CHILD: 21266 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:22] CHILD: 21269 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:22] CHILD: 21271 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:22] CHILD: 21274 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:22] CHILD: 21277 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:22] CHILD: 21281 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:40 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:41 childParent:22] CHILD: 21282 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:22] CHILD: 21286 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:22] CHILD: 21288 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:22] CHILD: 21292 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:22] CHILD: 21293 is logging
+[I 191106 18:37:45 childParent:22] CHILD: 21295 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:22] CHILD: 21298 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:22] CHILD: 21301 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:22] CHILD: 21304 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:22] CHILD: 21306 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:22] CHILD: 21311 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:22] CHILD: 21312 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:22] CHILD: 21315 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:22] CHILD: 21319 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:22] CHILD: 21323 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:22] CHILD: 21326 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:45 childParent:22] CHILD: 21329 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21331 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21333 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21336 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21337 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21339 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21341 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21344 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21346 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21348 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21350 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21353 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21356 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21358 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21361 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21362 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21365 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21366 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21368 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21370 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21373 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21376 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21379 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21382 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21385 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21388 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21391 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21394 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21396 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21398 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21400 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21403 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21405 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21407 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21409 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21412 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21414 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21416 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21418 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21421 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21423 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21425 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21428 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21430 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21433 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21435 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21438 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21440 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21442 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21445 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21447 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:25] PARENT: 20973 is logging
+[I 191106 18:37:46 childParent:22] CHILD: 21450 is logging
+[I 191106 18:40:40 m2RedoServer:107] Started 21724
+[I 191106 18:40:47 childParent:25] PARENT: 21724 is logging
+[I 191106 18:40:47 childParent:25] PARENT: 21724 is logging
+[I 191106 18:40:47 childParent:22] CHILD: 21729 is logging
+[I 191106 18:40:47 childParent:25] PARENT: 21724 is logging
+[I 191106 18:40:47 childParent:25] PARENT: 21724 is logging
+[I 191106 18:40:47 childParent:22] CHILD: 21731 is logging
+[I 191106 18:40:47 childParent:25] PARENT: 21724 is logging
+[I 191106 18:40:47 childParent:25] PARENT: 21724 is logging
+[I 191106 18:40:47 childParent:22] CHILD: 21734 is logging
+[I 191106 18:41:07 m2RedoServer:107] Started 21770
+[I 191106 18:41:13 childParent:25] PARENT: 21770 is logging
+[I 191106 18:41:13 childParent:25] PARENT: 21770 is logging
+[I 191106 18:41:13 childParent:22] CHILD: 21776 is logging
+[I 191106 18:41:13 childParent:25] PARENT: 21770 is logging
+[I 191106 18:41:13 childParent:25] PARENT: 21770 is logging
+[I 191106 18:41:13 childParent:22] CHILD: 21779 is logging
+[I 191106 18:41:13 childParent:25] PARENT: 21770 is logging
+[I 191106 18:41:13 childParent:25] PARENT: 21770 is logging
+[I 191106 18:41:13 childParent:22] CHILD: 21781 is logging
+[I 191106 18:41:13 childParent:25] PARENT: 21770 is logging
+[I 191106 18:41:13 childParent:25] PARENT: 21770 is logging
+[I 191106 18:41:13 childParent:22] CHILD: 21783 is logging
+[I 191106 18:44:19 m2RedoServer:107] Started 22003
+[I 191106 18:44:35 childParent:25] PARENT: 22003 is logging
+[I 191106 18:44:35 childParent:25] PARENT: 22003 is logging
+[I 191106 18:44:35 childParent:22] CHILD: 22028 is logging
+[I 191106 18:44:35 childParent:25] PARENT: 22003 is logging
+[I 191106 18:44:35 childParent:25] PARENT: 22003 is logging
+[I 191106 18:44:35 childParent:22] CHILD: 22030 is logging
+[I 191106 18:44:35 childParent:25] PARENT: 22003 is logging
+[I 191106 18:44:35 childParent:25] PARENT: 22003 is logging
+[I 191106 18:44:35 childParent:22] CHILD: 22032 is logging
+[I 191106 18:44:35 childParent:25] PARENT: 22003 is logging
+[I 191106 18:44:35 childParent:25] PARENT: 22003 is logging
+[I 191106 18:44:35 childParent:22] CHILD: 22034 is logging
+[I 191106 18:44:35 childParent:25] PARENT: 22003 is logging
+[I 191106 18:44:35 childParent:25] PARENT: 22003 is logging
+[I 191106 18:44:35 childParent:22] CHILD: 22036 is logging
+[I 191106 18:45:17 childParent:25] PARENT: 22003 is logging
+[I 191106 18:45:17 childParent:25] PARENT: 22003 is logging
+[I 191106 18:45:17 childParent:22] CHILD: 22095 is logging
+[I 191106 18:45:17 childParent:25] PARENT: 22003 is logging
+[I 191106 18:45:17 childParent:25] PARENT: 22003 is logging
+[I 191106 18:45:17 childParent:22] CHILD: 22097 is logging
+[I 191106 18:45:17 childParent:25] PARENT: 22003 is logging
+[I 191106 18:45:17 childParent:25] PARENT: 22003 is logging
+[I 191106 18:45:17 childParent:22] CHILD: 22100 is logging
+[I 191106 18:50:48 m2RedoServer:109] Started 22485
+[I 191106 18:50:52 m2RedoServer:109] Started 22488
+[I 191106 18:50:57 m2RedoServer:109] Started 22505
+[I 191106 18:52:25 m2RedoServer:109] Started 22591
+[I 191106 18:52:28 m2RedoServer:109] Started 22607
+[I 191106 18:52:33 m2RedoServer:109] Started 22610
+[I 191106 18:52:53 m2RedoServer:109] Started 22643
+[I 191106 18:53:10 m2RedoServer:109] Started 22668
+[I 191106 18:54:11 m2RedoServer:109] Started 22750
+[I 191106 18:54:39 m2RedoServer:109] Started 22786
+[I 191106 18:56:17 m2RedoServer:106] Started 22914
+[I 191106 18:56:33 m2RedoServer:106] Started 22935
+[I 191106 18:57:01 m2RedoServer:106] Started 22963
+[I 191106 18:57:59 m2RedoServer:107] Started 23044
+[I 191106 18:58:15 m2RedoServer:107] Started 23083
